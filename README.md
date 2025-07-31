@@ -22,4 +22,4 @@ This project is a full-featured relational database system designed to manage st
 ### Steps:
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/your-username/student-records-db.git
+   git clone https://github.com/Ivy-Jepkirui/student-records-db.git
